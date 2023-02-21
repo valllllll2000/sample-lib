@@ -13,3 +13,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/build
+!mylibrary/
+mylibrary/*
+!mylibrary/build/
+mylibrary/build/*
+!mylibrary/build/outputs/
+mylibrary/build/outputs/*
+!mylibrary/build/outputs/aar/
+mylibrary/build/outputs/aar/*
+!mylibrary/build/outputs/aar/mylibrary-release.aar
