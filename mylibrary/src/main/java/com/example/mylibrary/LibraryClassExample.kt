@@ -5,6 +5,6 @@ import android.util.Log
 class LibraryClassExample {
 
     fun exampleMethod() {
-        Log.d("Library", "method called")
+        Log.d("Library", "method called v3")
     }
 }
